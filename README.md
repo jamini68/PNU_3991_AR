@@ -9,8 +9,8 @@
 - [PNU_3991_AR](https://github.com/jamini68/PNU_3991_AR)
 - [Resume](https://jamini68.github.io) 
 - [SOP](https://saharzeinivand.github.io/SOP/)
-- [Certificates](https://saharzeinivand.github.io/Certificates/)
-- [GitHub](https://github.com/saharzeinivand)
+- [Certificates](https://github.com/jamini68/PNU_3991_AR/blob/main/cert-1068-20328381.jpg)
+- [GitHub](https://github.com/jamini68)
 
 
 <a name="Course-Table"></a>
