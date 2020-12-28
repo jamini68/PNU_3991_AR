@@ -5,7 +5,6 @@
 # جواد اميني
 
 ## فهرست
-- [روز و ساعت ارائه دروس](#Course-Table)
 - [PNU_3991_AR](https://github.com/jamini68/PNU_3991_AR)
 - [Resume](https://jamini68.github.io) 
 - [SOP](https://saharzeinivand.github.io/SOP/)
